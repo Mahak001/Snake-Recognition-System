@@ -18,7 +18,7 @@ You can see `HowtoUse.ipynb` file to see how to get output from the model.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sparshsahu567@gmail.com
+If you have any feedback, please reach out to us at mahakmirza001@gmail.com
 
 
 ## Related
