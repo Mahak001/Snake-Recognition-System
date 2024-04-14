@@ -13,7 +13,7 @@ You can see `HowtoUse.ipynb` file to see how to get output from the model.
 
 ## Documentation
 
-[Documentation](https://github.com/Sparshcodies/SnakeRecognitionSystem/blob/main/Documentation/Minor_Project_I.pdf)
+[Documentation](https://github.com/Mahak001/SnakeRecognitionSystem/blob/main/Documentation/Minor_Project_I.pdf)
 
 
 ## Feedback
@@ -25,5 +25,5 @@ If you have any feedback, please reach out to us at mahakmirza001@gmail.com
 
 Here are some related projects
 
-[Emotion Detection System](https://github.com/Sparshcodies/Emotion-Detection-System)
+[Emotion Detection System](https://github.com/Mahak001/Emotion-Detection-System)
 
