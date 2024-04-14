@@ -13,8 +13,7 @@ You can see `HowtoUse.ipynb` file to see how to get output from the model.
 
 ## Documentation
 
-[Documentation](https://github.com/Mahak001/SnakeRecognitionSystem/blob/main/Documentation/Minor_Project_I.pdf)
-
+[Documentation](https://github.com/Mahak001/Snake-Recognition-System/tree/main/SnakeRecognitionSystem-main/Documentation)
 
 ## Feedback
 
