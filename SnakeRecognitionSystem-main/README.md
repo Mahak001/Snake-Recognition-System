@@ -25,5 +25,5 @@ If you have any feedback, please reach out to us at mahakmirza001@gmail.com
 
 Here are some related projects
 
-[Emotion Detection System](https://github.com/Mahak001/Emotion-Detection-System)
+[Emotion Detection System][(https://github.com/Mahak001/Emotion-Recognition-System)]
 
